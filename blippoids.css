@@ -1,0 +1,12 @@
+h1 {
+  
+}
+
+div.title {
+  height: 300px;
+  width: 100%;
+  vertical-align: middle;
+  text-align: center;
+  color: #80a080;
+  background-color: #e0ffe0;
+}
